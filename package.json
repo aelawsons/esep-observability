@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/aelawsons/esep-observability/issues"
   },
-  "homepage": "https://github.com/aelawsons/esep-observability#readme"
+  "homepage": "https://github.com/aelawsons/esep-observability#readme",
+  "dependencies": {
+    "@opentelemetry/exporter-jaeger": "^1.23.0"
+  }
 }
