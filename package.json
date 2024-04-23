@@ -1,0 +1,22 @@
+{
+  "name": "esep-observability",
+  "version": "1.0.0",
+  "description": "Observability Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abigail Lawson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelawsons/esep-observability.git"
+  },
+  "keywords": [
+    "esep"
+  ],
+  "bugs": {
+    "url": "https://github.com/aelawsons/esep-observability/issues"
+  },
+  "homepage": "https://github.com/aelawsons/esep-observability#readme"
+}
